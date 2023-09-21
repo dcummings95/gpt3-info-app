@@ -61,9 +61,8 @@
     border-radius: 5px;
 }
 
-.gpt3__navbar-menw {
-  margin-left: 1rem;
-  display: none;
+.gpt3__navbar-menu {
+  margin-left: 2rem;
   position: relative;
 }
 
