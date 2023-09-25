@@ -52,3 +52,7 @@
   line-height: 30.287px; /* 156.804% */
   cursor: pointer;
 }
+
+@media screen and (max-width: 550px) {
+  
+}
